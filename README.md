@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm Gustave! 👋
 
-<!--
-**Gustqve/Gustqve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Mathematics & Computer Science** student at **Université Paris Cité**.
+Passionate about **Full-stack Development**, **AI**, and **building Startups**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-%23EE6A1A.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎬 [clipmagic](https://github.com/YourUsername/clipmagic)
+> **Automated short-form content video edition, right in your browser.**
+*Currently under active development.*
+* **Stack:** TypeScript
+
+#### 🐫 [Caraml](https://github.com/LucideAI/Caraml)
+> **A web-based full IDE for the OCaml language.**
+* **Stack:** TypeScript
+
+---
+
+### 📫 Let's Connect
+I'm always open to discussing new startup ideas or AI advancements.
+[LinkedIn](https://www.linkedin.com/in/your-linkedin) ```
+
+***
+
+### Option 2: Minimalist & Professional
+Best if you prefer a clean resume-style look without the flashiness of icons.
+
+```markdown
+# Gustave
+
+**Math & CS Student @ Université Paris Cité**
+
+I am a developer passionate about **Artificial Intelligence**, **Entrepreneurship**, and building scalable web applications.
+
+## 💻 Tech Stack
+* **Languages:** TypeScript, JavaScript, Python, C# (.NET), Java, OCaml
+* **Tools:** Git
+
+## 🚧 Selected Projects
+
+**1. clipmagic** (Public)
+An automated short-form content video editor that runs entirely in the browser.
+* *Status:* Under development
+* *Main Tech:* TypeScript
+
+**2. LucideAI/Caraml** (Public)
+A comprehensive web-based IDE designed for OCaml.
+* *Main Tech:* TypeScript
+
+---
+*Open to collaboration on AI and Startup projects.*
