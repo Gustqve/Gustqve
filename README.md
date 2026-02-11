@@ -1,6 +1,6 @@
-# Hi, I'm Gustave! 👋
+Hi, I'm Gustave! 👋
 
-I'm a **Mathematics & Computer Science** student at **Université Paris Cité**.
+**Mathematics & Computer Science** student @ **Université Paris Cité**.
 Passionate about **Full-stack Development**, **AI**, and **building Startups**.
 
 ---
@@ -32,34 +32,4 @@ Passionate about **Full-stack Development**, **AI**, and **building Startups**.
 
 ### 📫 Let's Connect
 I'm always open to discussing new startup ideas or AI advancements.
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) ```
-
-***
-
-### Option 2: Minimalist & Professional
-Best if you prefer a clean resume-style look without the flashiness of icons.
-
-```markdown
-# Gustave
-
-**Math & CS Student @ Université Paris Cité**
-
-I am a developer passionate about **Artificial Intelligence**, **Entrepreneurship**, and building scalable web applications.
-
-## 💻 Tech Stack
-* **Languages:** TypeScript, JavaScript, Python, C# (.NET), Java, OCaml
-* **Tools:** Git
-
-## 🚧 Selected Projects
-
-**1. clipmagic** (Public)
-An automated short-form content video editor that runs entirely in the browser.
-* *Status:* Under development
-* *Main Tech:* TypeScript
-
-**2. LucideAI/Caraml** (Public)
-A comprehensive web-based IDE designed for OCaml.
-* *Main Tech:* TypeScript
-
----
-*Open to collaboration on AI and Startup projects.*
+[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gust4ve/))
