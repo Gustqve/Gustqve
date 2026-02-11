@@ -20,7 +20,7 @@ Passionate about **Full-stack Development**, **AI**, and **building Startups**.
 
 ### 🚀 Featured Projects
 
-#### 🎬 [clipmagic](https://github.com/YourUsername/clipmagic)
+#### 🎬 [clipmagic](https://github.com/Gustqve/clipmagic)
 > **Automated short-form content video edition, right in your browser.**
 *Currently under active development.*
 * **Stack:** TypeScript
