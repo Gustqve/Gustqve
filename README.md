@@ -1,4 +1,4 @@
-# Hi there, I'm Gustave! 👋
+# Hi, I'm Gustave! 👋
 
 I'm a **Mathematics & Computer Science** student at **Université Paris Cité**.
 Passionate about **Full-stack Development**, **AI**, and **building Startups**.
