@@ -33,4 +33,4 @@ Passionate about **Full-stack Development**, **AI**, and **building Startups**.
 
 ### 📫 Let's Connect
 I'm always open to discussing new startup ideas or AI advancements.
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gust4ve/))
+[LinkedIn](https://www.linkedin.com/in/gust4ve/)
