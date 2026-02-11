@@ -1,6 +1,7 @@
 Hi, I'm Gustave! 👋
 
 **Mathematics & Computer Science** student @ **Université Paris Cité**.
+
 Passionate about **Full-stack Development**, **AI**, and **building Startups**.
 
 ---
